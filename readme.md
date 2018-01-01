@@ -1,9 +1,12 @@
 # Star Trails
 
-File : Projects/readme.md
+File : StarTrails/readme.md
+
 Author : Greg Furlich
 
-Comment : git repository to showcase fun coding projects of Greg Furlich
+Copy Right : (c) 2017 Greg Furlich
+
+License : MIT
 
 # StarTrail.py
 
@@ -28,4 +31,4 @@ A python script simulate star trails for a random array of positions for <n_star
 
 ![Star Trail Movement Example GIF](https://github.com/gfurlich/Projects/blob/master/StarTrails/GIFs/Star_Trail_Movement_example.gif)
 
-This does create large GIF files and takes a long time, hence version 2.
+This does create large GIF files and takes a long time, hence version 2. Running with < n_stars> = 500 stars, dpi=500, and <rotation_angle> = 35 degrees, took 32925.481381 secs on my Surface Pro 4.
